@@ -1,0 +1,35 @@
+/* Global Styles */
+body {
+    font-family: 'Oswald', Tahoma, Arial, sans-serif; /* Apply Oswald to body text */
+    background-color: #FCEBB6;
+    color: #221811;
+}
+
+/* Header and Headings - Use Oswald */
+header, h1, h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #8C3826;  /* Maintain the same color for headings */
+}
+
+/* Navigation - Apply Oswald */
+nav {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    background-color: #D2B48C;
+    font-size: 0.60em;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Center the page content */
+#wrapper {
+    width: 80%;
+    background-color: #FEFAEB;
+    margin-left: auto;
+    margin-right: auto;
+}
